@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aashrith.github.io/sitemap.xml
+Sitemap: https://aashrith-saraswathibhatla.github.io/sitemap.xml
