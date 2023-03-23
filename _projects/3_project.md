@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: How do breast epithelial cells escape their thin
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
