@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cell shapes
-description: a project with a background image
+title: Cell shape and jamming-unjamming of epithelial sheets
+description:
 img: assets/img/12.jpg
 importance: 1
 category: work
