@@ -8,3 +8,5 @@ giscus_comments: false
 related_posts: false
 ---
 Under construction! In this posts, I will just briefly give out some tricks for using water objective without drying out the water miniscus.
+
+Add a picture of the objective with a ballon around the objective. This way you can avoid water from drying out for at least 6-8 hours.

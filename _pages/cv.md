@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
-nav: true
+title: cv
+nav: false
 nav_order: 4
 cv_pdf: CV_NIH_format.pdf
 ---
